@@ -1,0 +1,8 @@
+pov_st: add R2, R1, #1 @ POVECAJ STEVEC
+
+- pov_st je oznaka
+- vmes med izrazi/ukazi so presledki ali tabulatorji
+- add je ukaz
+- R2, R1, #1 so operandi
+- #1 je konstanta
+- @ je komentar
